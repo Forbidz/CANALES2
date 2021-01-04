@@ -1,0 +1,43 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: MAS CHIC FHD
+http://fnp.one:8080/m1ujU1WnFS/984827318603/8045
+#EXTINF:-1 tvg-logo="" group-title="HD", HD: MAS CHIC HD
+http://tv.nousiptv.com:8080/Lucy/123456/4047
+#EXTINF:-1 tvg-logo="" group-title="HD", HD: DE PELICULA PLUS SD
+http://tv.nousiptv.com:8080/Lucy/123456/3239
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: FOX HD FHD
+http://tv.nousiptv.com:8080/Lucy/123456/4022
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: FOX LIFE HD
+http://tv.nousiptv.com:8080/Lucy/123456/4043
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: FOX PREMIUM ACTION FHD
+http://tv.nousiptv.com:8080/Lucy/123456/4019
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: FOX PREMIUM CINEMA FHD
+http://tv.nousiptv.com:8080/Lucy/123456/8238
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: FOX PREMIUM CLASSICS FHD
+http://tv.nousiptv.com:8080/Lucy/123456/8237
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: FOX PREMIUM COMEDY FHD
+http://tv.nousiptv.com:8080/Lucy/123456/8234
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: FOX PREMIUM FAMILY FHD
+http://tv.nousiptv.com:8080/Lucy/123456/4084
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: FOX PREMIUM MOVIES FHD
+http://tv.nousiptv.com:8080/Lucy/123456/4023
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: FOX PREMIUM SERIES FHD
+http://tv.nousiptv.com:8080/Lucy/123456/4020
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: FX HD
+http://tv.nousiptv.com:8080/Lucy/123456/4044
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: HBO FHD
+http://tv.nousiptv.com:8080/Lucy/123456/4095
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: HOME & HEALTH FHD
+http://fnp.one:8080/m1ujU1WnFS/984827318603/8084
+#EXTINF:-1 tvg-logo="" group-title="HD", HD: HOME & HEALTH HD
+http://tv.nousiptv.com:8080/Lucy/123456/4070
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: AMC FHD
+http://tv.nousiptv.com:8080/Lucy/123456/4085
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: Disney Channel MX FHD
+http://fnp.one:8080/m1ujU1WnFS/984827318603/8077
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: Disney Junior MX FHD
+http://fnp.one:8080/m1ujU1WnFS/984827318603/8076
+#EXTINF:-1 tvg-logo="" group-title="FULL HD", FULL HD: Disney XD MX FHD
+http://fnp.one:8080/m1ujU1WnFS/984827318603/8075
